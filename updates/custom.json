@@ -1,0 +1,22 @@
+{
+  "app": {
+    "version": "7.5.1-Mod",
+    "versionCode": "267",
+    "link": "https://cdn.jsdelivr.net/gh/lewime/magisk_files/files/MagiskManager-v7.5.1_Mod.apk",
+    "note": "https://cdn.jsdelivr.net/gh/lewime/magisk_files/notes/manager-v7.5.1.md"
+  },
+  "uninstaller": {
+    "link": "https://cdn.jsdelivr.net/gh/lewime/magisk_files/files/Magisk-uninstaller-20200323.zip"
+  },
+  "magisk": {
+    "version": "20.4-Mod",
+    "versionCode": "20400",
+    "link": "https://cdn.jsdelivr.net/gh/lewime/magisk_files/files/Magisk-v20.4_Mod.zip",
+    "note": "https://cdn.jsdelivr.net/gh/lewime/magisk_files/notes/magisk-v20.4.md",
+    "md5": "e7b307ddda296a57889286bea56d44fd"
+  },
+  "stub": {
+    "versionCode": "7",
+    "link": "https://cdn.jsdelivr.net/gh/lewime/magisk_files/files/stub_7.apk"
+  }
+}
