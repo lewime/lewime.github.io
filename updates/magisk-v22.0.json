@@ -1,0 +1,22 @@
+{
+  "app": {
+    "version": "22.0",
+    "versionCode": "2200"
+    "link": "https://cdn.jsdelivr.net/gh/lewime/magisk_files/files/Magisk-v22.0.apk",
+    "note": "https://cdn.jsdelivr.net/gh/lewime/magisk_files/notes/magisk-v22.0.md"
+  },
+  "uninstaller": {
+    "link": "https://cdn.jsdelivr.net/gh/lewime/magisk_files/files/Magisk-uninstaller-20210117.zip"
+  },
+  "magisk": {
+    "version": "22.0",
+    "versionCode": "2200"
+    "link": "https://cdn.jsdelivr.net/gh/lewime/magisk_files/files/Magisk-v22.0.apk",
+    "note": "https://cdn.jsdelivr.net/gh/lewime/magisk_files/notes/magisk-v22.0.md",
+    "md5": "e14132835b4cc0878639fcf645db479c"
+  },
+  "stub": {
+    "versionCode": "18",
+    "link": "https://cdn.jsdelivr.net/gh/lewime/magisk_files/files/stub_18.apk"
+  }
+}
